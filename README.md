@@ -1,7 +1,6 @@
 # cse210-tc03
 
-Git and GitHub
-A quick aside: git and GitHub are not the same thing. Git is an open
+Hello! My name is Ella, and I’m from Taiwan. My major is data science and this is my third semester. I really enjoy learning programming.
 
 Hello my name is Caleb.
 I am a student at BYU-Idaho. I study software engineering, and I love art.
