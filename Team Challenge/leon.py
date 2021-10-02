@@ -1,1 +1,2 @@
-print("Hello from Elena Leon.")
+def print_function():
+    print("Hello from Elena Leon.")
